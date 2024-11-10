@@ -26,7 +26,7 @@ const NavBar = ({ logo, items, sun, moon, btn, menu_outline }) => {
             {items?.map((item, index) => (
               <li key={index}>
                 <Link
-                  to={item === 'Newsletter' ? '/Newsletter' : (item === 'Blog' ? '/' : '#')} // الانتقال إلى صفحة Newsletter عند النقر على Newsletter
+                  to={item === 'Newsletter' ? '/Newsletter' : (item === 'Blog' ? '/task6' : '#')} // الانتقال إلى صفحة Newsletter عند النقر على Newsletter
                   className="text-lg font-normal text-myDark dark:text-light  dark:hover:text-gray-300"
                 >
                   {item}
@@ -61,7 +61,7 @@ const NavBar = ({ logo, items, sun, moon, btn, menu_outline }) => {
               {items?.map((item, index) => (
                 <li key={index} className="h-4 flex justify-center">
                   <Link
-                    to={item === 'Newsletter' ? '/Newsletter' : (item === 'Blog' ? '/' : '#')} // الانتقال إلى صفحة Newsletter عند النقر على Newsletter
+                    to={item === 'Newsletter' ? '/Newsletter' : (item === 'Blog' ? '/task6' : '#')} // الانتقال إلى صفحة Newsletter عند النقر على Newsletter
                     className="text-lg font-normal text-gray-800 dark:text-light"
                     onClick={() => setActive(false)} // إغلاق القائمة بعد اختيار العنصر
                   >

@@ -24,12 +24,12 @@ const SpecificArticle = () => {
         <p className="text-violet">{article.date}</p>
         <h1 className="my-4 text-3xl font-bold dark:text-light">{article.title}</h1>
         <img src={article.mainImage} alt={article.title} className="w-full h-auto object-cover" />
-        <p className="mt-4 text-lg dark:text-light">{article.discription}</p>
+        <p className="mt-4 text-base dark:text-gray-300">{article.discription}</p>
 
         {article.sections.map((section, index) => (
           <div key={index} className="mt-8">
             <img src={section.image} alt={`Section ${index + 1}`} className="w-full h-auto object-cover" />
-            <p className="mt-4 text-lg dark:text-light">{section.content}</p>
+            <p className="mt-4 text-base text-myGray dark:text-gray-300">{section.content}</p>
           </div>
         ))}
 

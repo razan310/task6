@@ -1,4 +1,5 @@
 import Blog from '../Components/Blog/Blog';
+import Footer from '../Components/Footer/Footer';
 import SpecificArticle from '../Components/SpecificArticle/SpecificArticle';
 import Subscribe from '../Components/Subscribe/Subscribe';
 import useStore from './../zustand/store/useStore';
@@ -62,8 +63,12 @@ const Article = () => {
                 </div>
             </div>
             <div>
-                <Subscribe/>
+                <div className='px-8 mx-5 my-6 md:my-3 lg:my-3 lg:mx-28'>
+                    <Subscribe/>
+                    <Footer/>
+                </div>
             </div>
+            
         </div>
     );
 };

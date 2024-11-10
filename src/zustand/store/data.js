@@ -26,14 +26,42 @@ const articlesData = [
         mainImage: img5,
         discription: "The rise of RESTful APIs has been met by a rise in tools for creating, testing, and manag...",
         sections: [
-        {
-            image: forth,
-            content: "This is the first section of the article.",
-        },
-        {
-            image: img5,
-            content: "This is the second section of the article.",
-        },
+            {
+                image: img20_2,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_3,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_4,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_5,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_6,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_7,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_8,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_9,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_10,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
         ],
         categories: ["Technology", "React"],
     },
@@ -44,14 +72,42 @@ const articlesData = [
         mainImage: img6,
         discription: "The rise of RESTful APIs has been met by a rise in tools for creating, testing, and manag...",
         sections: [
-        {
-            image: img5,
-            content: "This is the first section of the article.",
-        },
-        {
-            image: forth,
-            content: "This is the second section of the article.",
-        },
+            {
+                image: img20_2,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_3,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_4,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_5,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_6,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_7,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_8,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_9,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_10,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
         ],
         categories: ["Design",'Customer Success'],
     },
@@ -62,14 +118,42 @@ const articlesData = [
         mainImage: img7,
         discription: "The rise of RESTful APIs has been met by a rise in tools for creating, testing, and manag...",
         sections: [
-        {
-            image: img5,
-            content: "This is the first section of the article.",
-        },
-        {
-            image: forth,
-            content: "This is the second section of the article.",
-        },
+            {
+                image: img20_2,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_3,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_4,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_5,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_6,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_7,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_8,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_9,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_10,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
         ],
         categories: ["Design", "React",'Frameworks'],
     },
@@ -80,14 +164,42 @@ const articlesData = [
         mainImage: img8,
         discription: "The rise of RESTful APIs has been met by a rise in tools for creating, testing, and manag...",
         sections: [
-        {
-            image: forth,
-            content: "This is the first section of the article.",
-        },
-        {
-            image: img5,
-            content: "This is the second section of the article.",
-        },
+            {
+                image: img20_2,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_3,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_4,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_5,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_6,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_7,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_8,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_9,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_10,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
         ],
         categories: ['Software Development', "React"],
     },
@@ -98,14 +210,42 @@ const articlesData = [
         mainImage: img9,
         discription: "The rise of RESTful APIs has been met by a rise in tools for creating, testing, and manag...",
         sections: [
-        {
-            image: forth,
-            content: "This is the first section of the article.",
-        },
-        {
-            image: img5,
-            content: "This is the second section of the article.",
-        },
+            {
+                image: img20_2,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_3,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_4,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_5,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_6,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_7,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_8,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_9,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_10,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
         ],
         categories: ["Technology", "React"],
     },
@@ -116,14 +256,42 @@ const articlesData = [
         mainImage: img10,
         discription: "The rise of RESTful APIs has been met by a rise in tools for creating, testing, and manag...",
         sections: [
-        {
-            image: img5,
-            content: "This is the first section of the article.",
-        },
-        {
-            image: forth,
-            content: "This is the second section of the article.",
-        },
+            {
+                image: img20_2,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_3,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_4,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_5,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_6,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_7,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_8,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_9,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_10,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
         ],
         categories: ["Design",'Customer Success'],
     },
@@ -134,14 +302,42 @@ const articlesData = [
         mainImage: img7,
         discription: "The rise of RESTful APIs has been met by a rise in tools for creating, testing, and manag...",
         sections: [
-        {
-            image: img5,
-            content: "This is the first section of the article.",
-        },
-        {
-            image: forth,
-            content: "This is the second section of the article.",
-        },
+            {
+                image: img20_2,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_3,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_4,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_5,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_6,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_7,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_8,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_9,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_10,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
         ],
         categories: ["Design", "React",'Frameworks'],
     },
@@ -152,14 +348,42 @@ const articlesData = [
         mainImage: img8,
         discription: "The rise of RESTful APIs has been met by a rise in tools for creating, testing, and manag...",
         sections: [
-        {
-            image: forth,
-            content: "This is the first section of the article.",
-        },
-        {
-            image: img5,
-            content: "This is the second section of the article.",
-        },
+            {
+                image: img20_2,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_3,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_4,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_5,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_6,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_7,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_8,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_9,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_10,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
         ],
         categories: ['Software Development', "React"],
     },
@@ -170,14 +394,42 @@ const articlesData = [
         mainImage: img9,
         discription: "The rise of RESTful APIs has been met by a rise in tools for creating, testing, and manag...",
         sections: [
-        {
-            image: forth,
-            content: "This is the first section of the article.",
-        },
-        {
-            image: img5,
-            content: "This is the second section of the article.",
-        },
+            {
+                image: img20_2,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_3,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_4,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_5,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_6,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_7,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_8,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_9,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_10,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
         ],
         categories: ["Technology", "React",'Frameworks'],
     },
@@ -188,14 +440,42 @@ const articlesData = [
         mainImage: img10,
         discription: "The rise of RESTful APIs has been met by a rise in tools for creating, testing, and manag...",
         sections: [
-        {
-            image: forth,
-            content: "This is the first section of the article.",
-        },
-        {
-            image: forth,
-            content: "This is the second section of the article.",
-        },
+            {
+                image: img20_2,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_3,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_4,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_5,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_6,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_7,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_8,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_9,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_10,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
         ],
         categories: ["Technology", "React"],
     },
@@ -206,14 +486,42 @@ const articlesData = [
         mainImage: img10,
         discription:"Linear helps streamline software projects, sprints, tasks, and bug tracking. Here’s how to get...",
         sections: [
-        {
-            image: forth,
-            content: "This is the first section of the article.",
-        },
-        {
-            image: forth,
-            content: "This is the second section of the article.",
-        },
+            {
+                image: img20_2,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_3,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_4,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_5,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_6,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_7,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_8,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_9,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_10,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
         ],
         categories: ["Design", "React"],
     },
@@ -224,14 +532,42 @@ const articlesData = [
         mainImage: forth,
         discription:"Linear helps streamline software projects, sprints, tasks, and bug tracking. Here’s how to get...",
         sections: [
-        {
-            image: forth,
-            content: "This is the first section of the article.",
-        },
-        {
-            image: forth,
-            content: "This is the second section of the article.",
-        },
+            {
+                image: img20_2,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_3,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_4,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_5,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_6,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_7,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_8,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_9,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_10,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
         ],
         categories: ["Technology", "Design"],
     },
@@ -242,14 +578,42 @@ const articlesData = [
         mainImage: forth,
         discription:"Linear helps streamline software projects, sprints, tasks, and bug tracking. Here’s how to get...",
         sections: [
-        {
-            image: forth,
-            content: "This is the first section of the article.",
-        },
-        {
-            image: forth,
-            content: "This is the second section of the article.",
-        },
+            {
+                image: img20_2,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_3,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_4,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_5,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_6,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_7,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_8,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_9,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_10,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
         ],
         categories: ["Technology", "React"],
     },
@@ -260,14 +624,42 @@ const articlesData = [
         mainImage: forth,
         discription:"Linear helps streamline software projects, sprints, tasks, and bug tracking. Here’s how to get...",
         sections: [
-        {
-            image: "path/to/section/image1.jpg",
-            content: "This is the first section of the article.",
-        },
-        {
-            image: "path/to/section/image2.jpg",
-            content: "This is the second section of the article.",
-        },
+            {
+                image: img20_2,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_3,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_4,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_5,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_6,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_7,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_8,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_9,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_10,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
         ],
         categories: ["Technology", "React"],
     },
@@ -278,14 +670,42 @@ const articlesData = [
         mainImage: forth,
         discription:"Linear helps streamline software projects, sprints, tasks, and bug tracking. Here’s how to get...",
         sections: [
-        {
-            image: "path/to/section/image1.jpg",
-            content: "This is the first section of the article.",
-        },
-        {
-            image: "path/to/section/image2.jpg",
-            content: "This is the second section of the article.",
-        },
+            {
+                image: img20_2,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_3,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_4,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_5,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_6,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_7,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_8,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_9,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_10,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
         ],
         categories: ["Design", "React"],
     },
@@ -296,14 +716,42 @@ const articlesData = [
         mainImage: forth,
         discription:"Linear helps streamline software projects, sprints, tasks, and bug tracking. Here’s how to get...",
         sections: [
-        {
-            image: "path/to/section/image1.jpg",
-            content: "This is the first section of the article.",
-        },
-        {
-            image: "path/to/section/image2.jpg",
-            content: "This is the second section of the article.",
-        },
+            {
+                image: img20_2,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_3,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_4,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_5,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_6,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_7,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_8,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_9,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_10,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
         ],
         categories: ["Technology", "React"],
     },
@@ -314,14 +762,42 @@ const articlesData = [
         mainImage: first,
         discription: 'How do you create compelling presentations that wow your colleagues and impress your managers?',
         sections: [
-        {
-            image: first,
-            content: "How do you create compelling presentations that wow your colleagues and impress your managers?",
-        },
-        {
-            image: first,
-            content: "This is the second section of the article.",
-        },
+            {
+                image: img20_2,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_3,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_4,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_5,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_6,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_7,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_8,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_9,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_10,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
         ],
         categories: ["Design", "Research","Presentation"],
     },
@@ -332,14 +808,42 @@ const articlesData = [
         mainImage: second,
         discription:"Linear helps streamline software projects, sprints, tasks, and bug tracking. Here’s how to get...",
         sections: [
-        {
-            image: second,
-            content: "This is the first section of the second article.",
-        },
-        {
-            image: second,
-            content: "This is the second section of the second article.",
-        },
+            {
+                image: img20_2,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_3,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_4,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_5,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_6,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_7,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_8,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_9,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_10,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
         ],
         categories: ["Design", "Research"],
     },
@@ -350,14 +854,42 @@ const articlesData = [
         mainImage: third,
         discription: "The rise of RESTful APIs has been met by a rise in tools for creating, testing, and manag...",
         sections: [
-        {
-            image: third,
-            content: "This is the first section of the article.",
-        },
-        {
-            image: third,
-            content: "This is the second section of the article.",
-        },
+            {
+                image: img20_2,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_3,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_4,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_5,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_6,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_7,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_8,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_9,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
+            {
+                image: img20_10,
+                content: "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid. There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
+            },
         ],
         categories: ["Design", "Research"],
     },

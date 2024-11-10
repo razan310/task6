@@ -20,7 +20,7 @@ function App() {
           menu_outline={navItems.menu_outline}
         />
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/task6" element={<Home />} />
           <Route path="/Newsletter" element={<Newlatters />} />
           <Route path="/article/:id" element={<Article />} />
         </Routes>
